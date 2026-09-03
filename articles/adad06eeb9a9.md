@@ -23,3 +23,7 @@ published: false
 
 ## 参考リンク / ひとことメモ
 - [参考記事タイトル](URL)
+
+## gitコマンド
+- git commit -m "message"
+
