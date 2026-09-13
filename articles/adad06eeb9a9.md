@@ -3,7 +3,7 @@ title: "初投稿"
 emoji: "📝"
 type: "tech"
 topics: []
-published: false
+published: true
 ---
 
 ## 概要（何をやったか / 学んだこと）
